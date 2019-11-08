@@ -1,0 +1,4 @@
+ERROR:root:hostname newcomp.interac.local not found
+ERROR:root:the location equinix does not exist
+NoneType: None
+CRITICAL:root:the built data is 13 sept 2019
